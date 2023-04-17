@@ -58,12 +58,12 @@ header .logo-baseline p{
 /* MAIN */
 main{
     padding: 40px;
-    background: #F0EEF4;
 }
 .main-title{
     margin: auto;
     width: 50%;
     font-weight: 600;
+    color: #fff;
 }
 .projet-wrapper{
     display: flex;
