@@ -89,7 +89,7 @@ main{
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    width: 20%;
+    width: 100%;
     min-width: 296px;
     background-color: #fff;
     overflow: hidden;
@@ -141,6 +141,7 @@ main{
     background: #fff;
     color: #242325;
 }
+
 .back-up{
     position: fixed;
     bottom: 10px;
@@ -153,9 +154,7 @@ main{
     right: 20px;
     color: #ffffff;
 }
-.projet-minus{
-    cursor: pointer;
-}
+
 
 footer{
     display: flex;
