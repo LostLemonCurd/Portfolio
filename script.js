@@ -12,8 +12,3 @@ function toggleArrowColor() {
   }
 }
 window.addEventListener("scroll", toggleArrowColor);
-
-let projetMinus = document.querySelector(".projet-minus");
-projetMinus.addEventListener("click", function () {
-  window.location.href = "/minus.html";
-});
